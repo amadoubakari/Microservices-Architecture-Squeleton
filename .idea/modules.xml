@@ -5,7 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Microservices Architecture.iml" filepath="$PROJECT_DIR$/Microservices Architecture.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/gateway-api/gateway-api.iml" filepath="$PROJECT_DIR$/gateway-api/gateway-api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/service-discovery-register/service-discovery-register.iml" filepath="$PROJECT_DIR$/service-discovery-register/service-discovery-register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/register-recovery-service/register-recovery-service.iml" filepath="$PROJECT_DIR$/register-recovery-service/register-recovery-service.iml" />
     </modules>
   </component>
 </project>
