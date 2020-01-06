@@ -6,18 +6,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="demo" />
+        <module name="Configuration service" />
         <module name="gateway-api" />
         <module name="register-recovery-service" />
+        <module name="test-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Configuration service" target="1.8" />
       <module name="demo" target="1.8" />
       <module name="gateway-api" target="1.8" />
       <module name="Microservices Architecture" target="1.5" />
       <module name="register-recovery-service" target="1.8" />
       <module name="service-discovery-register" target="1.8" />
       <module name="servie-discovery-register" target="1.8" />
+      <module name="test-service" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
