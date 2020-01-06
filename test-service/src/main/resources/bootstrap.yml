@@ -7,5 +7,6 @@ eureka:
 spring:
   application:
     name: test-service
-
-
+  cloud:
+    config:
+      uri: http://localhost:8888
