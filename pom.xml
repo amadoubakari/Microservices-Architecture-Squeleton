@@ -10,9 +10,10 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>gateway-api</module>
         <module>register-recovery-service</module>
         <module>Configuration service</module>
+        <module>test-service</module>
+
     </modules>
 </project>
 
